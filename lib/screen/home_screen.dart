@@ -14,6 +14,9 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         title: Text('Quran App'),
       ),
+      body: Container(
+        child: const Text('Hello world'),
+      ),
     );
   }
 }
