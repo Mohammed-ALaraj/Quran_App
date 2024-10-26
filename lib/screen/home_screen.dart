@@ -16,6 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       body: Container(
         child: const Text('Hello world'),
+        color: Colors.green,
       ),
     );
   }
