@@ -1,0 +1,23 @@
+[33mcommit 2c57dc89913554cde28dfc6d4c6455bb3cef0eff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmohammedB[m[33m)[m
+Author: Mohammed ALaraj <mohammedalaraj220@gmail.com>
+Date:   Sat Oct 26 09:51:30 2024 +0200
+
+    new home screen commit
+
+[33mcommit 3c5b96ba818fa65a09a7c7da375fbfb203501c77[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Mohammed ALaraj <mohammedalaraj220@gmail.com>
+Date:   Thu Oct 24 20:31:00 2024 +0300
+
+    creat body in Home Screen with text hello world
+
+[33mcommit b84f7fe0b4c7fa91bff4eb86f3e4e5917eab62fa[m
+Author: Mohammed ALaraj <mohammedalaraj220@gmail.com>
+Date:   Thu Oct 24 19:55:50 2024 +0300
+
+    creat App Bar in Home screen
+
+[33mcommit 3840e3b2a1495243166e17f10ed580966cbaea13[m
+Author: Mohammed ALaraj <mohammedalaraj220@gmail.com>
+Date:   Thu Oct 24 19:01:04 2024 +0300
+
+    creat main project of quran app
